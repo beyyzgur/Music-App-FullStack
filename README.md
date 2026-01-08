@@ -62,5 +62,5 @@ The backend is implemented using NestJS following a modular architecture.
 ```bash
 cd client
 npm install
-npm run dev
+npm start run:dev
 ```
