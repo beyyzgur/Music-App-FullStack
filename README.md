@@ -60,7 +60,7 @@ npm run dev
 The backend is implemented using NestJS following a modular architecture.
 ### Setup & Run
 ```bash
-cd client
+cd server
 npm install
 npm start run:dev
 ```
